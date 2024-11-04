@@ -42,7 +42,7 @@ public class WeatherApplication {
                 }
             } catch (InputMismatchException e) {
                 System.out.println("Ошибка: пожалуйста, введите целое число 1 или 2.");
-                scanner.next(); // очищаем некорректный ввод
+                scanner.next();
             }
         }
 
