@@ -22,3 +22,6 @@ cd WeatherService
 ### 2. Запуск проекта
 main-класс находится в WeatherApplication.java.
 Потребуется ввести ключ от Яндекс.Погоды и выбрать режим определения координат.
+
+## TODO
+Добавить резервный эндпоинт https://api.open-meteo.com/v1/forecast
